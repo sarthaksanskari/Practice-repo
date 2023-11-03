@@ -1,1 +1,1 @@
-hello this is a git tutorial file for pratice  
+hello this is a git tutorial file for pratice
